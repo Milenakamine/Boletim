@@ -13,7 +13,7 @@ namespace API_Boletim.Interfaces
 
         Aluno Alterar(Aluno a);
 
-        Aluno Ecluir(Aluno a);
+        Aluno Excluir(Aluno a);
 
 
 
